@@ -1,7 +1,7 @@
 # Nebula Creator Dashboard (Prototype)
 
 This repository contains a Streamlit-based prototype of the Nebula Accelerator
-Creator Dashboard. The UI is modular, component-driven, and data-agnostic —
+Creator Dashboard. The UI is modular, component driven, and data agnostic, 
 dummy data lives inside `data/dummy_data.py` and pages are located under
 `pages/`.
 
